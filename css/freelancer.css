@@ -80,6 +80,13 @@ header img {
   display: block;
   margin: 0 auto 20px;
 }
+header .intro-text .this {
+  display: block;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2em;
+}
 header .intro-text .name {
   display: block;
   background-color: rgba(127, 165, 231, .9);
